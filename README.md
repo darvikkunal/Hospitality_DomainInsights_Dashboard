@@ -7,7 +7,7 @@ This Power BI dashboard provides an insightful overview of key performance metri
 
 This Power BI dashboard provides an insightful overview of key performance metrics for a chain of properties across various cities. The data covers multiple aspects including revenue, occupancy rates, average daily rates (ADR), realization percentages, and trends across different time frames. It helps in understanding the performance and operational metrics at a glance.
 
-![Power BI Dashboard]("D:\Improving_Skills_DA\DA_Projects\GitHub_Projects\Hospitality_DomainInsights_Dashboard\Dashboard.png")
+![Power BI Dashboard]("Dashboard.png")
 
 ## Filters
 - **City**: Filter data based on specific cities.
